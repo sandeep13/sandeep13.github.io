@@ -40,12 +40,10 @@
 2. Ian Sommerville, Software Engineering, Addison Wesley.2004
 3. Pankaj Jalote, An Integrated Approach to Software Engineering, Narosa Publication, 2005
 
+[Other Subjects Details](http://www.gndec.ac.in) and ![Image](src)
+ `Code` text
 
 
-
-**Detailed Contents** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
