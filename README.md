@@ -27,10 +27,18 @@
 
 *Software Testing:* Testing Objectives, Unit Testing, Integration Testing, Acceptance Testing, Regression Testing, Testing for Functionality and Testing for Performance, Top-Down and Bottom- Up Testing Strategies: Test Drivers and Test Stubs, Structural Testing (White Box Testing), Functional Testing (Black Box Testing), Test Data Suit Preparation, Alpha and Beta Testing of Products. Static Testing Strategies: Formal Technical Reviews (Peer Reviews), Walk Through, Code Inspection, Compliance with Design and Coding Standards. _[7]_
 
-*Software Maintenance and Software Project Management:* Software as an Evolutionary Entity, Need for Maintenance, Categories of Maintenance: Preventive, Corrective and Perfective Maintenance, Cost of Maintenance, Software Re- Engineering, Reverse Engineering. Software Configuration Management Activities, Change Control Process, Software Version Control, An Overview of CASE Tools. Estimation of Various Parameters such as Cost, Efforts, Schedule/Duration, Constructive Cost Models (COCOMO), Resource Allocation Models, Software Risk Analysis and Management.
+*Software Maintenance and Software Project Management:* Software as an Evolutionary Entity, Need for Maintenance, Categories of Maintenance: Preventive, Corrective and Perfective Maintenance, Cost of Maintenance, Software Re- Engineering, Reverse Engineering. Software Configuration Management Activities, Change Control Process, Software Version Control, An Overview of CASE Tools. Estimation of Various Parameters such as Cost, Efforts, Schedule/Duration, Constructive Cost Models (COCOMO), Resource Allocation Models, Software Risk Analysis and Management. _[6]_
 
 
+*Text Books:*
 
+1. R. S. Pressman, Software Engineering: A Practitioners Approach, McGraw Hill, 2010
+2. Rajib Mall, Fundamentals of Software Engineering, PHI Publication, 2009
+
+*Reference Books:*
+1. K. K. Aggarwal and Yogesh Singh, Software Engineering, New Age International Publishers,2007
+2. Ian Sommerville, Software Engineering, Addison Wesley.2004
+3. Pankaj Jalote, An Integrated Approach to Software Engineering, Narosa Publication, 2005
 
 - Bulleted
 - List
