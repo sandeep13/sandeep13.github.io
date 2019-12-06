@@ -1,19 +1,25 @@
-## Welcome to GitHub Pages
+Software Engineering and Testing
 
-You can use the [editor on GitHub](https://github.com/sandeep13/sandeep13.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Internal Marks: 40 L T P
+External marks: 60 3 1 0
+Total Marks: 100
+Course Outcomes:
 
 ### Markdown
+After completing this course students will be able to
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 Examine the Software Requirements Engineering and stages of software development.
+2. Relate the requirements modeling and design techniques to infer the flow and behaviour of the system.
+3. Examine the design issues and metrics for an effective software design.
+4. Differentiate between the testing strategies to verify and validate the developed system.
+5. Monitor the quality of the software for its reliability, availability and safety.
+6. Relate software maintenance, reengineering and version control.
+## Header 2 Relate the requirements modeling and design techniques to infer the flow and behaviour of the system.
+### Header 3 Examine the design issues and metrics for an effective software design.
 
 - Bulleted
 - List
