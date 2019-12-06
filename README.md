@@ -3,7 +3,7 @@
 ## Internal Marks: 40     
 ## External marks: 60     
 ## Total Marks: 100
-## L 3  T 1 P 0
+## L 3      T 1        P 0
 ## _Course Outcomes_
 
 ### After completing this course students will be able to
