@@ -40,7 +40,7 @@
 2. Ian Sommerville, Software Engineering, Addison Wesley.2004
 3. Pankaj Jalote, An Integrated Approach to Software Engineering, Narosa Publication, 2005
 
-[Other Subjects Details](http://www.gndec.ac.in) and ![Image](src)
+[Other Subjects Details](https://it.gndec.ac.in/?q=courses) and ![Image](src)
  `Code` text
 
 
