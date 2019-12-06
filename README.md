@@ -1,7 +1,7 @@
 # Software Engineering and Testing
 
-## Internal Marks: 40     L T P
-## External marks: 60     3 1 0
+## Internal Marks: 40     
+## External marks: 60     
 ## Total Marks: 100
 ## L 3  T 1 P 0
 ## _Course Outcomes_
@@ -30,21 +30,18 @@
 *Software Maintenance and Software Project Management:* Software as an Evolutionary Entity, Need for Maintenance, Categories of Maintenance: Preventive, Corrective and Perfective Maintenance, Cost of Maintenance, Software Re- Engineering, Reverse Engineering. Software Configuration Management Activities, Change Control Process, Software Version Control, An Overview of CASE Tools. Estimation of Various Parameters such as Cost, Efforts, Schedule/Duration, Constructive Cost Models (COCOMO), Resource Allocation Models, Software Risk Analysis and Management. _[6]_
 
 
-*Text Books:*
+### Text Books:
 
 1. R. S. Pressman, Software Engineering: A Practitioners Approach, McGraw Hill, 2010
 2. Rajib Mall, Fundamentals of Software Engineering, PHI Publication, 2009
 
-*Reference Books:*
+### Reference Books:
 1. K. K. Aggarwal and Yogesh Singh, Software Engineering, New Age International Publishers,2007
 2. Ian Sommerville, Software Engineering, Addison Wesley.2004
 3. Pankaj Jalote, An Integrated Approach to Software Engineering, Narosa Publication, 2005
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
 
 **Detailed Contents** and _Italic_ and `Code` text
 
